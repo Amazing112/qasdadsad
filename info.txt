@@ -1,0 +1,18 @@
+```Changelog for the Xiphos Development;
+
+November 27, 2017
+  - Started Xiphos Level 6 Development 
+
+December 4, 2017
+  - Resumed development for scripthub
+
+December 6, 2017
+  - New Bunifu UI for scripthub
+  
+December 9, 2017
+  - Started to do daily development
+  - Setup Discord 
+  - Added basic scripts
+  - Added .exe support (for people without lua executors)
+
+Xiphos | by Zombi#0706 ```
